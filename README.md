@@ -18,7 +18,7 @@ The goal of the software is to automatically pull updates of COVID-19 cases from
 Due to the size of the project, it couldn't be uploaded to Github directly. Instead, it is available for download on Google Drive. Please follow the instructions below to get the software:
 
 1. [Download the file from Google Drive](https://drive.google.com/file/d/1njYO0TRhwKK9lPr9zPGfjHLGlH8JUyr1/view?usp=sharing).
-2. After downloading, open the file in Microsoft Excel.
+2. After downloading, extract the zipped file and open it in Microsoft Excel.
 3. Ensure that your Macros are enabled to allow automatic updates. 
    
 Please note: Basic knowledge of Excel is required to navigate and understand the dashboard effectively.
