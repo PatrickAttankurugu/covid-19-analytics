@@ -1,6 +1,6 @@
 # COVID-19 Analytics Dashboard
 
-![Dashboard Screenshot](screenshot.JPG)
+![Dashboard Screenshot](screenshot.png)
 
 ## Description
 
